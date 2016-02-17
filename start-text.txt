@@ -6,6 +6,8 @@ Two changes, three changes more
 
 Is this a branch change? Let's see
 
+---Working on a clean master copy now - then will try a branch again
+
 Markdown is a simple set of formatting instructions that let you add formatting to a text file. Markdown was developed by John Gruber and Aaron Swartz, and the specification is still on John Gruber's website: https://daringfireball.net/projects/markdown/
 
 GitHub supports an extended set of markdown, and has an intoductory guide here: https://guides.github.com/features/mastering-markdown/
